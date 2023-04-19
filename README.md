@@ -8,7 +8,7 @@ Bu repo [kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğu
 
 ```
 
-git clone  https://github.com/HakanVoski/kodluyoruzilkrepo.git
+git clone https://github.com/HakanVoski/kodluyoruzilkrepo.git
 
 ```
 
@@ -27,6 +27,10 @@ cd kodluyoruzilkrepo
 code.
 
 ```
+
+## Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
 
 ## License
 
